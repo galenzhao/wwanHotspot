@@ -29,8 +29,8 @@ PKG_NAME:=wwanHotspot
 PKG_VERSION:=1.57
 PKG_RELEASE:=1
 
-PKG_SOURCE_URL:=https://github.com/jordi-pujol/wwanHotspot
-PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
+#PKG_SOURCE_URL:=https://github.com/jordi-pujol/wwanHotspot
+#PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 
 MAINTAINER:=Jordi Pujol <jordipujolp AT gmail DOT com>
 PKG_LICENSE:=GPLv3
